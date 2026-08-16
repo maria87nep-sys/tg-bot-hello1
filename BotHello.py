@@ -7,7 +7,7 @@ from aiogram.types import ChatMemberUpdated
 from aiogram.filters import ChatMemberUpdatedFilter, IS_NOT_MEMBER, IS_MEMBER
 from aiogram.utils.markdown import hlink
 
-API_TOKEN = "7093363299:AAGeACLdy8jh5q2zg1UZq8nxTC37_DOHN5Y"
+API_TOKEN = "7093363299:AAGmVuo8xb2SB6_3I71E--vPxHQKZaFE5nc"
 
 logging.basicConfig(level=logging.INFO)
 bot = Bot(token=API_TOKEN)
